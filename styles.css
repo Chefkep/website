@@ -1,0 +1,111 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66bfbf;
+}
+
+h2{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66bfbf;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr{
+  margin: 50px auto 50px auto;
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #d8e3e7;
+  border-width: 5px;
+  width: 5%;
+}
+
+.footer-link{
+  color:#11999E;
+}
+
+
+.chef{
+  font-weight: normal;
+}
+.top-container{
+  background-color: #e4f9f5;
+  position:relative;
+  padding-top: 100px;
+  line-height: 2;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.recipe-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cooking-img{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+
+.middle-container{
+}
+
+.bottom-container{
+}
+
+.top-cloud{
+  position: absolute;
+  right:350px;
+  top:50px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  top:450px;
+}
+
+.bottom-container{
+  margin-top: 30px;
+  padding: 30px;
+  background-color: #66BFBF
+}
+.chefkep{
+  color: #EAF6F6;
+}
+
+.btn{
+  margin: 30px auto 30px auto;
+  background-color: #66BFBF;
+  border-radius: 8px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.contact-me{
+  margin: 40px auto 40px auto;
+}
